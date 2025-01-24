@@ -6,9 +6,9 @@ Tensor Graph Optimizer (TGO) is a Python-based project designed to optimize comp
 
 The optimizer focuses on operations that:
 
-    - Change the values of tensor elements (e.g., element-wise transformations).
-    - Change the shape of tensors (e.g., reshaping, transposing).
-    - Perform reductions (e.g., summing or averaging elements of tensors).
+- Change the values of tensor elements (e.g., element-wise transformations).
+- Change the shape of tensors (e.g., reshaping, transposing).
+- Perform reductions (e.g., summing or averaging elements of tensors).
 
 ---
 
